@@ -17,9 +17,9 @@ What I Do?
 
 As a technical writer, I communicate complex technical information in a clear and understandable way for a specific audience. At my internship this summer, I will work closely with engineers, developers, and other subject matter experts to gather information to ensure accurate documentation. I work on the following projects: 
 
--Technical Documentation 
--Content Design 
--Marketing Communications
+- Technical Documentation
+- Content Design
+- Marketing Communications
     
 What Industries do I cover?
 
